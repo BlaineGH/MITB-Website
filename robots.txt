@@ -1,0 +1,12 @@
+# robots.txt for www.makeitbasic.com and its subdirectories
+
+User-agent: *
+
+# Allow all subdomains and location pages
+Allow: /tyler-it-services
+Allow: /athens-it-services
+Allow: /palestine-it-services
+Allow: /longview-it-services
+Allow: /easttx-it-services
+
+Sitemap: https://www.makeitbasic.com/sitemap.xml
