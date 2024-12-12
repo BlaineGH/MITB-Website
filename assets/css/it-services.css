@@ -1812,7 +1812,20 @@ input, select, textarea {
 		.wrapper.style2 {
 			border-top: #fec544 2px solid;
 			border-bottom: #fec544 2px solid;
-			background: #0a101e;
+			background: url(../../images/it-services-computer-repair.png) #0a101e;
+			background-repeat: no-repeat;
+			background-size: cover;
+		}
+
+
+
+		.wrapper.style2 .container{
+			background: #0a101ef8;
+			border: #fec544 1px solid;
+			border-radius: 1em;
+			padding: 1em 1em 3em 1em;
+			box-shadow: 10px 15px #0000000e;
+			
 		}
 
 			.wrapper.style2 .title {
@@ -2022,7 +2035,7 @@ input, select, textarea {
 	}
 /* Highlights */
 	#highlights {
-		background: url(../../images/it-services-computer-repair.png);
+		background: url(../../images/it-services-computer-repair2.png);
 		background-repeat: no-repeat;
 		background-size: cover;
 		background-position: top;	
@@ -2152,7 +2165,10 @@ input, select, textarea {
 
 		/* Highlights */
 			#highlights{
-				background: #fff;
+				background: url(../../images/it-services-computer-repair2.png);
+				background-repeat: no-repeat;
+				background-size: cover;
+				background-position: center;	
 			}
 
 			#highlights .highlight {
