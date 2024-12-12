@@ -2,7 +2,7 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <!-- Main Page -->
   <url>
-    <loc>https://www.makeitbasic.com/</loc>
+    <loc>https://www.makeitbasic.com</loc>
     <lastmod>2024-12-11</lastmod>
     <changefreq>weekly</changefreq>
     <priority>1.0</priority>
@@ -10,31 +10,31 @@
   
   <!-- Location-Specific Pages -->
   <url>
-    <loc>https://www.makeitbasic.com/tyler-it-services</loc>
+    <loc>https://www.makeitbasic.com/tyler-it-services/</loc>
     <lastmod>2024-12-11</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.9</priority>
   </url>
   <url>
-    <loc>https://www.makeitbasic.com/athens-it-services</loc>
+    <loc>https://www.makeitbasic.com/athens-it-services/</loc>
     <lastmod>2024-12-11</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.9</priority>
   </url>
   <url>
-    <loc>https://www.makeitbasic.com/palestine-it-services</loc>
+    <loc>https://www.makeitbasic.com/palestine-it-services/</loc>
     <lastmod>2024-12-11</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.9</priority>
   </url>
   <url>
-    <loc>https://www.makeitbasic.com/longview-it-services</loc>
+    <loc>https://www.makeitbasic.com/longview-it-services/</loc>
     <lastmod>2024-12-11</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.9</priority>
   </url>
   <url>
-    <loc>https://www.makeitbasic.com/easttx-it-services</loc>
+    <loc>https://www.makeitbasic.com/easttx-it-services/</loc>
     <lastmod>2024-12-11</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.9</priority>
