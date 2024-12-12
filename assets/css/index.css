@@ -2382,6 +2382,7 @@ input, select, textarea {
 				width: 100%;
 				border-radius: 4px;
 				overflow: hidden;
+				background-color: #fff;
 			}
 
 				.tiles article > .image img {
@@ -2443,7 +2444,9 @@ input, select, textarea {
 				text-decoration: none;
 				z-index: 3;
 				border: #fec544 3px solid;
+				opacity: .95;
 				background: #0a101e;
+				
 			}
 
 				.tiles article > a > :last-child {
@@ -2481,6 +2484,7 @@ input, select, textarea {
 				-webkit-transform: scale(1.3);
 				-ms-transform: scale(1.3);
 				transform: scale(1.3);
+				background-color: #ffffff00;
 			}
 
 				body:not(.is-touch) .tiles article:hover > .image:before {
@@ -2645,7 +2649,13 @@ input, select, textarea {
 
 			#main {
 				padding: .5em 0 4em 0 ;
+				text-align: center;
+				background-repeat: repeat;
+				background-size: contain;
+				background-position: top;
+				
 			}
+
 
 		}
 	#main .textmiddle{
