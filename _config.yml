@@ -1,2 +1,45 @@
+# Site settings
+title: "Make IT Basic"
+description: "Professional computer repair, managed services, and IT services in Tyler, Texas."
+url: "https://www.makeitbasic.com" # Your site's URL
+baseurl: "" # Leave blank for the root domain
 permalink: /:categories/:title
-favicon: https://www.makeitbasic.com/assets/favicon.ico
+
+# Favicon and assets
+favicon: "https://www.makeitbasic.com/assets/favicon.ico" # Path to your favicon
+logo: "https://www.makeitbasic.com/images/make-it-basic-logo.png"       # Path to your logo, if needed
+
+# SEO and social
+author: "Make IT Basic" # Your name or business name
+twitter_username: "basic_make" # Optional Twitter handle
+github_username: "" # Optional GitHub link
+linkedin_username: "" # Optional LinkedIn profile
+facebook_username: "Make-I.T.-Basic "
+
+# Plugins
+plugins:
+  - jekyll-seo-tag # For better SEO meta tags
+  - jekyll-sitemap # Generates a sitemap.xml file
+  - jekyll-feed    # Adds RSS feed support
+
+# Defaults for SEO
+defaults:
+  - scope:
+      path: "" # Applies to all files
+    values:
+      layout: "default"
+      lang: "en-US"
+
+# Markdown and highlighter settings
+markdown: kramdown
+highlighter: rouge
+
+# Exclude from build
+exclude:
+  - node_modules
+  - Gemfile
+  - Gemfile.lock
+  - vendor
+
+# Deployment settings
+destination: _site
