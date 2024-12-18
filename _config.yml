@@ -3,7 +3,7 @@ title: "Make IT Basic"
 description: "Professional computer repair, managed services, and IT services in Tyler, Texas."
 url: "https://www.makeitbasic.com" # Your site's URL
 baseurl: "" # Leave blank for the root domain
-permalink: /:categories/:title
+permalink: pretty
 
 # Favicon and assets
 favicon: "https://www.makeitbasic.com/assets/favicon.ico" # Path to your favicon
