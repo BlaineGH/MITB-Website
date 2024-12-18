@@ -2072,7 +2072,6 @@ input, select, textarea {
 			top: 0;
 			width: 275px;
 			z-index: 10002;
-			background: #242730 url("images/overlay.png");
 			box-shadow: inset -3px 0px 4px 0px rgba(0, 0, 0, 0.1);
 		}
 
@@ -2638,7 +2637,7 @@ input, select, textarea {
 		padding: 1em 0 4em 0 ;
 		color: rgb(0, 0, 0);
 		border-bottom: #fec544 2px solid;
-		background: url(../../images/it-services-computer-repair.png);
+		background: url(../../images/it-services-computer-repair.webp);
 		background-repeat: no-repeat;
 		background-size: cover;
 		background-position: center;
@@ -2663,7 +2662,7 @@ input, select, textarea {
 	}
 	
 	#about{
-		background: url(../../images/it-services-computer-repair.png) #0a101e;
+		background: url(../../images/it-services-computer-repair.webp) #0a101e;
 		background-repeat: no-repeat;
 		background-size: cover;
 		background-position: left;

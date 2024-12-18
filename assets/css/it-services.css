@@ -1652,7 +1652,6 @@ input, select, textarea {
 			.feature-list h3:before {
 				display: block;
 				color: #fff;
-				background: #2f333b url("images/overlay.png");
 				border-radius: 2.5em;
 				text-align: center;
 				width: 2.5em;
@@ -1777,7 +1776,6 @@ input, select, textarea {
 				left: -35px;
 				width: 35px;
 				height: 38px;
-				background: url("images/shadow.png");
 			}
 
 			.wrapper .title:after {
@@ -1791,7 +1789,6 @@ input, select, textarea {
 				right: -35px;
 				width: 35px;
 				height: 38px;
-				background: url("images/shadow.png");
 			}
 
 		.wrapper.style1 {
@@ -1812,7 +1809,7 @@ input, select, textarea {
 		.wrapper.style2 {
 			border-top: #fec544 2px solid;
 			border-bottom: #fec544 2px solid;
-			background: url(../../images/it-services-computer-repair.png) #0a101e;
+			background: url(../../images/it-services-computer-repair.webp) #0a101e;
 			background-repeat: no-repeat;
 			background-size: cover;
 		}
@@ -1866,7 +1863,7 @@ input, select, textarea {
 		justify-content: center;
 		position: relative;
 		height: 24em;
-		background: url("../../images/Laptop-repair.png") center center;
+		background: url("../../images/Laptop-repair.webp") center center;
 		background-size: contain;
 		padding: 0;
 	}
@@ -2035,7 +2032,7 @@ input, select, textarea {
 	}
 /* Highlights */
 	#highlights {
-		background: url(../../images/it-services-computer-repair2.png);
+		background: url(../../images/it-services-computer-repair2.webp);
 		background-repeat: no-repeat;
 		background-size: cover;
 		background-position: top;	
@@ -2165,7 +2162,7 @@ input, select, textarea {
 
 		/* Highlights */
 			#highlights{
-				background: url(../../images/it-services-computer-repair2.png);
+				background: url(../../images/it-services-computer-repair2.webp);
 				background-repeat: no-repeat;
 				background-size: cover;
 				background-position: center;	
@@ -2286,7 +2283,6 @@ input, select, textarea {
 				top: 0;
 				width: 275px;
 				z-index: 10002;
-				background: #242730 url("images/overlay.png");
 				box-shadow: inset -3px 0px 4px 0px rgba(0, 0, 0, 0.1);
 			}
 
