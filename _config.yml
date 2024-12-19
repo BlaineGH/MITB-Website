@@ -19,6 +19,7 @@ facebook_username: "Make-I.T.-Basic"
 plugins:
   - jekyll-seo-tag # For better SEO meta tags
   - jekyll-feed    # Adds RSS feed support
+  - jekyll-minifier
 
 # Defaults for SEO
 defaults:
