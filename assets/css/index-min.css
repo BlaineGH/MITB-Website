@@ -1967,7 +1967,6 @@ table.alt tfoot {
   padding-top: calc((9 / 16) * 100%); /* Aspect ratio for 16:9 */
   background-color: #fff; /* Placeholder background */
   overflow: hidden; /* Ensure content doesn't overflow */
-  overflow: hidden;
 }
 .tiles article > .image img {
     position: absolute;
