@@ -9,5 +9,10 @@ Allow: /athens-it-services
 Allow: /palestine-it-services
 Allow: /longview-it-services
 Allow: /easttx-it-services
+Disallow: /*.jpg$
+Disallow: /*.png$
+Disallow: /*.gif$
+Disallow: /*.webp$
+Disallow: /index.html
 
 Sitemap: https://www.makeitbasic.com/sitemap.xml
