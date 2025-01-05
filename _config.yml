@@ -1,7 +1,7 @@
 # Site settings
 title: "Make IT Basic"
-description: "Professional computer repair, managed services, and IT services in Tyler, Texas."
-url: "https://www.makeitbasic.com" # Your site's URL
+description: "Professional computer repair, managed services, and IT services in East Texas."
+url: "https://www.makeitbasic.com/" # Your site's URL
 baseurl: "" # Leave blank for the root domain
 permalink: pretty
 theme: minima
@@ -13,7 +13,7 @@ logo: "https://www.makeitbasic.com/images/make-it-basic-logo.png" # Path to your
 # SEO and social
 author: "Make IT Basic" # Your name or business name
 twitter_username: "basic_make" # Optional Twitter handle
-facebook_username: "Make-I.T.-Basic"
+facebook_username: "Make I.T. Basic"
 
 # Plugins
 plugins:
