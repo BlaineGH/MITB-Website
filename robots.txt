@@ -9,6 +9,7 @@ Allow: /athens-it-services
 Allow: /palestine-it-services
 Allow: /longview-it-services
 Allow: /easttx-it-services
+allow: /about
 Disallow: /*.jpg$
 Disallow: /*.png$
 Disallow: /*.gif$
