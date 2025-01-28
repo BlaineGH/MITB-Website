@@ -3,14 +3,14 @@
 User-agent: *
 
 # Allow all subdomains and location pages
-
+Allow: /
 Allow: /tyler-it-services
 Allow: /athens-it-services
 Allow: /palestine-it-services
 Allow: /longview-it-services
 Allow: /easttx-it-services
 Allow: /about
-Disallow: /
+
 Disallow: /*.jpg$
 Disallow: /*.png$
 Disallow: /*.gif$
