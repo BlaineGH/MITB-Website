@@ -12,6 +12,4 @@ Allow: /easttx-it-services
 Allow: /about
 
 
-Disallow: /index.html
-
 Sitemap: https://www.makeitbasic.com/sitemap.xml
