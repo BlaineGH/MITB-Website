@@ -11,11 +11,7 @@ Allow: /longview-it-services
 Allow: /easttx-it-services
 Allow: /about
 
-Disallow: /*.svg$
-Disallow: /*.jpg$
-Disallow: /*.png$
-Disallow: /*.gif$
-Disallow: /*.webp$
+
 Disallow: /index.html
 
 Sitemap: https://www.makeitbasic.com/sitemap.xml
